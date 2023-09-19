@@ -326,7 +326,7 @@ a {
 
 .footer-line {
     position: absolute;
-    width: 58.3vw;
+    width: 88.2rem;
     height: auto;
     top: -.7rem;
     right: 0;
@@ -590,7 +590,7 @@ a {
     }
     .footer-line-t {
         display: block;
-        width: 54.5rem;
+        width: 52.5rem;
         height: auto;
         top: -0.8rem;
     }
@@ -675,7 +675,7 @@ a {
         display: block;
     }
     .line {
-        width: 16.7rem;
+        width: 16rem;
         transform: rotate(180deg);
         bottom: -.8rem;
     }
@@ -819,7 +819,7 @@ a {
 
     .footer-line-m {
         display: block;
-        width: 16.7rem;
+        width: 16rem;
         height: auto;
         top: -.6rem;
     }
