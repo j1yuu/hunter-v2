@@ -415,6 +415,7 @@ a {
     font-weight: 700;
     line-height: normal;
     transition: background-color .3s;
+    margin-right: 12rem;
 }
 .footer__text {
     color: #000;
@@ -637,6 +638,7 @@ a {
     .footer__button {
         padding: .8rem 1.6rem;
         font-size: 1.6rem;
+        margin-right: 0;
     }
     .row {
         margin-bottom: 2.8rem;
