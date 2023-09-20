@@ -99,7 +99,7 @@ a {
     justify-content: space-between;
 }
 .header__link {
-    margin-right: 3.5rem;
+    margin-right: 2.4rem;
     font-family: 'Ghothic';
     color: #fff;
     font-weight: 700;
@@ -107,6 +107,7 @@ a {
     transition: color .3s;
 }
 .header__tel {
+    display: block;
     background-color: #EA7D25;
     border-radius: 2rem;
     color:#fff;
@@ -115,6 +116,9 @@ a {
     font-family: 'Ghothic';
     font-weight: 700;
     transition: background-color .3s;
+}
+.first-tel {
+    margin-right: 1.6rem;
 }
 .line {
     position: absolute;
@@ -508,8 +512,9 @@ a {
     }
 
     .header__tel {
-        font-size: 2.6rem;
-        font-weight: 500;
+        margin-top: 2.4rem;
+        font-size: 2.4rem;
+        font-weight: 700;
     }
 
     /* circles 768 */
